@@ -1,0 +1,10 @@
+"VertexlitGeneric"
+{
+	"$basetexture" "models/dewobedil/underfell/sans/body00_lenAp"
+	"$nodecal" 1
+	"$phong" "1"
+	"$lightwarptexture" "models/dewobedil/underfell/sans/toon_skin"
+	"$rimlight"               "1"
+	"$rimlightexponent"       "5"
+	"$rimlightboost"          "1"
+}

@@ -1,0 +1,9 @@
+"VertexlitGeneric"
+{
+	"$basetexture" "models/dewobedil/underfell/sans/Eyes3"
+	"$ambientocclusion" "0"
+	"$halflambert" "1"
+	"$nodecal" 1
+	"$phong" "1"
+	"$lightwarptexture" "models/dewobedil/underfell/sans/toon_head"
+}
